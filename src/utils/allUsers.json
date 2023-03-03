@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "user": "Tammy",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://cdn.pixabay.com/photo/2021/07/19/04/36/woman-6477171_960_720.jpg"
+  },
+
+  {
+    "id": 2,
+    "user": "Jennifer",
+    "tweets": 200,
+    "followers": 100,
+    "avatar": "https://cdn.pixabay.com/photo/2021/06/20/20/31/woman-6351965_960_720.jpg"
+  },
+  {
+    "id": 3,
+    "user": "Jim",
+    "tweets": 555,
+    "followers": 99999999,
+    "avatar": "https://cdn.pixabay.com/photo/2021/07/27/17/35/steampunk-6497478_960_720.jpg"
+  }
+]
